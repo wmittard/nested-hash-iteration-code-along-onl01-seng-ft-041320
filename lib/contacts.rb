@@ -15,5 +15,5 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-"Freddy Mercury" => {favorite_ice_cream_flavors:["cookiedough","mint chip"] }
+
 end
